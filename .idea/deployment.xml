@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" uploadOnCheckin="47e01078-7a8e-4a94-ba9d-6c6f3f7c3c02">
     <serverData>
       <paths name="sakura">
         <serverdata>
@@ -17,5 +17,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="sanex_host" />
   </component>
 </project>
